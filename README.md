@@ -1,9 +1,9 @@
-# Android Kotlin Textureview Example
+# Android Kotlin Textureview Example (easy)
 How to use TextureView with OpenGL in your Android project? Example written in Kotlin! :-) A very simple example is about how to initialize OpenGL context on Android.
 
-This example is not about stability, but about simplicity so you could overview and understand the whole process of OpenGL context initialization under Android.
+This example is not about stability, but about simplicity so you could overview and understand the whole process of OpenGL context initialization under Android. If you see a bit more complex example (15 lines more), please, [see another example](https://github.com/egslava/Example-Android-TextureView-OpenGL-Stable).
 
-This minimalistic example requires less than 80 lines of Kotlin code:
+This minimalistic example requires less than 60 lines of Kotlin code:
 ```Kotlin
 class MainActivity : AppCompatActivity() {
 
